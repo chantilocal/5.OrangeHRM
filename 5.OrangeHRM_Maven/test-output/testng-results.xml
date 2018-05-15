@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54447" started-at="2018-05-15T05:26:15Z" finished-at="2018-05-15T05:27:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54447" started-at="2018-05-15T05:26:15Z" finished-at="2018-05-15T05:27:10Z">
+      <class name="pack1.TC1_Login2">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:pack1.TC1_Login2@4501b7af]" name="login" duration-ms="15160" started-at="2018-05-15T05:26:15Z" data-provider="loginData" finished-at="2018-05-15T05:26:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaplanet1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lab1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:pack1.TC1_Login2@4501b7af]" name="login" duration-ms="12986" started-at="2018-05-15T05:26:31Z" data-provider="loginData" finished-at="2018-05-15T05:26:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaplanet2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lab2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:pack1.TC1_Login2@4501b7af]" name="login" duration-ms="13144" started-at="2018-05-15T05:26:44Z" data-provider="loginData" finished-at="2018-05-15T05:26:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaplanet3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lab3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:pack1.TC1_Login2@4501b7af]" name="login" duration-ms="12755" started-at="2018-05-15T05:26:57Z" data-provider="loginData" finished-at="2018-05-15T05:27:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaplanet4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lab4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- pack1.TC1_Login2 -->
+      <class name="pack1.C9">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:pack1.C9@28d25987]" name="login" duration-ms="11" started-at="2018-05-15T05:26:15Z" data-provider="loginData" finished-at="2018-05-15T05:26:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaplanet1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lab1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:pack1.C9@28d25987]" name="login" duration-ms="3" started-at="2018-05-15T05:26:15Z" data-provider="loginData" finished-at="2018-05-15T05:26:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaplanet2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lab2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:pack1.C9@28d25987]" name="login" duration-ms="3" started-at="2018-05-15T05:26:15Z" data-provider="loginData" finished-at="2018-05-15T05:26:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaplanet3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lab3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:pack1.C9@28d25987]" name="login" duration-ms="3" started-at="2018-05-15T05:26:15Z" data-provider="loginData" finished-at="2018-05-15T05:26:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaplanet4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lab4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- pack1.C9 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
