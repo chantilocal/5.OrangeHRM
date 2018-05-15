@@ -47,6 +47,7 @@ public class C9 {
 	
 				System.out.println(username);
 				System.out.println(password);
+				System.out.println(password);
 
 	}
 
